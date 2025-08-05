@@ -2,6 +2,9 @@
 
 *Accepted at MLMI Workshop, MICCAI 2025*
 
+## Architecture
+![architecture](imgs/architecture.png)
+
 ## Data
 The segmentation masks and bone-to-bone rigid transformations can be found here: [Link](https://filecloud.uk-augsburg.de/index.php/s/c9ToruqSxZlOcRM)
 
